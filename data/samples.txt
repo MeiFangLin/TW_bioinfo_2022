@@ -1,0 +1,6 @@
+control   F2R3	subset/SRR8470268_R1_sub.fastq.gz	subset/SRR8470268_R2_sub.fastq.gz
+control   C2R3	subset/SRR8470253_R1_sub.fastq.gz	subset/SRR8470253_R2_sub.fastq.gz
+groupC    D2R3	subset/SRR8470256_R1_sub.fastq.gz	subset/SRR8470256_R2_sub.fastq.gz
+groupC    E1R3	subset/SRR8470259_R1_sub.fastq.gz	subset/SRR8470259_R2_sub.fastq.gz
+groupD	  E2R3	subset/SRR8470262_R1_sub.fastq.gz	subset/SRR8470262_R2_sub.fastq.gz
+groupD	  F1R3	subset/SRR8470265_R1_sub.fastq.gz	subset/SRR8470265_R2_sub.fastq.gz
